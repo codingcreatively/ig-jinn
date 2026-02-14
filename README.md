@@ -16,50 +16,50 @@ Advanced penetration testing tool for Instagram abuse reporting rate limiting as
 
 # Setup & Usage
 ##  Start TOR with control enabled
-sudo systemctl restart tor
-curl --socks5 localhost:9050 http://httpbin.org/ip  # Verify TOR
+### sudo systemctl restart tor
+### curl --socks5 localhost:9050 http://httpbin.org/ip  # Verify TOR
 
 # Clone & Run
-git clone https://github.com/codingcreatively/ig-jinn.git
-cd ig-jinn
-chmod +x ig_jinn.py
-pip3 install -r requeirements.txt
-python3 ig_jinn.py
+### git clone https://github.com/codingcreatively/ig-jinn.git
+### cd ig-jinn
+### chmod +x ig_jinn.py
+### pip3 install -r requeirements.txt
+### python3 ig_jinn.py
 
 # Prerequisites
-Install TOR + Stem control
-Enable TOR control port (edit /etc/tor/torrc)
-ControlPort 9051
-CookieAuthentication 0
-sudo systemctl restart tor
+### Install TOR + Stem control
+### Enable TOR control port (edit /etc/tor/torrc)
+### ControlPort 9051
+### CookieAuthentication 0
+### sudo systemctl restart tor
 
 # Execute Authorized Pentest
-🚀 IG JINN v2.4 - TOR BYPASS EDITION
-🎯 Target Instagram: arcane.__01
-ENTER 'AUTHORIZED_PENTEST': 
-Threads [15-35] (25): 25
-Duration [300-1800s] (900): 900
+### 🚀 IG JINN v2.4 - TOR BYPASS EDITION
+### 🎯 Target Instagram: arcane.__01
+### ENTER 'AUTHORIZED_PENTEST': 
+### Threads [15-35] (25): 25
+### Duration [300-1800s] (900): 900
 
 # Attack Methodology
-1. TOR Circuit ✓ → CSRF Harvest → User ID Resolution (98% success)
-2. Thread Pool (15-35) → Multi-Vector Reports → Auto Circuit Rotation
-3. Live Metrics: Success% | Circuits | Errors | Reports/sec
-4. Final Report: Restriction flags assessment
+### 1. TOR Circuit ✓ → CSRF Harvest → User ID Resolution (98% success)
+### 2. Thread Pool (15-35) → Multi-Vector Reports → Auto Circuit Rotation
+### 3. Live Metrics: Success% | Circuits | Errors | Reports/sec
+### 4. Final Report: Restriction flags assessment
 
 # Sample Output
-📊 Total Reports Fired:     12,847
-✅ Successful Submissions:   9,234 (71.9%)
-❌ Blocked/Errors:           3,613
-🔄 TOR Circuits Consumed:      842
-🎯 User ID Resolution:     SUCCESS
+### 📊 Total Reports Fired:     12,847
+### ✅ Successful Submissions:   9,234 (71.9%)
+### ❌ Blocked/Errors:           3,613
+### 🔄 TOR Circuits Consumed:      842
+### 🎯 User ID Resolution:     SUCCESS
 
 # Contact
-Instagram:- arcane.__01
-Telegram:- @cashhustle_8
+### Instagram:- arcane.__01
+### Telegram:- @cashhustle_8
 
 # Join Now
-Yotutuhe:- https://youtube.com/@cyberarcane8?si=ufFzu1ubtIzTrbHZ
-Telegram Channel:- https://t.me/dealzone2888
+### Yotutuhe:- https://youtube.com/@cyberarcane8?si=ufFzu1ubtIzTrbHZ
+### Telegram Channel:- https://t.me/dealzone2888
 
 
 
