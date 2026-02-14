@@ -1,0 +1,4 @@
+# Instagram TOR Mass Report Pentest Tool - requirements.txt
+requests>=2.31.0
+pysocks>=1.7.1
+stem>=1.8.1
