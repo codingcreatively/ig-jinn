@@ -22,7 +22,7 @@ Advanced penetration testing tool for Instagram abuse reporting rate limiting as
 # Clone & Run
 ### git clone https://github.com/codingcreatively/ig-jinn.git
 ### cd ig-jinn
-### chmod +x ig-jinn.py
+### sudo chmod +x ig-jinn.py
 ### pip3 install -r requeirements.txt
 ### python3 ig-jinn.py
 
